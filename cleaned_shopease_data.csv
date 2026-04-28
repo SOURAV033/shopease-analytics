@@ -1,0 +1,18 @@
+order_id,customer_id,order_date,delivery_date,product_category,price,quantity,delivery_lag_days
+101,C001,2024-01-01,2024-01-05,electronics,500,1,4
+103,C003,2024-01-03,2024-01-10,home decor,45,1,7
+104,C001,2024-01-05,2024-01-07,electronics,300,1,2
+106,C005,2024-01-07,2024-01-12,kitchen appliances,150,1,5
+108,C001,2024-01-10,2024-01-12,electronics,150,2,2
+109,C007,2024-01-11,2024-01-15,sports equipment,80,1,4
+110,C008,2024-01-12,2024-01-14,beauty products,25,4,2
+111,C003,2024-01-12,2024-01-18,home decor,60,1,6
+114,C010,2024-01-15,2024-01-25,furniture,400,1,10
+115,C005,2024-01-16,2024-01-19,kitchen appliances,85,1,3
+116,C001,2024-01-18,2024-01-20,toys,40,1,2
+118,C012,2024-01-20,2024-01-21,beauty products,30,2,1
+119,C003,2024-01-21,2024-01-24,home decor,45,1,3
+119,C003,2024-01-21,2024-01-24,home decor,45,1,3
+120,C013,2024-01-22,2024-01-28,electronics,800,1,6
+123,C005,2024-01-26,2024-01-29,kitchen appliances,45,2,3
+124,C016,2024-01-28,2024-02-05,sports equipment,120,1,8
